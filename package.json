@@ -1,5 +1,5 @@
 {
-"name": "merns_shopping_list",
+"name": "merns-shopping-list",
 "version": "1.0.0",
 "description": "Shopping list built with the MERN stack",
 "main": "server.js",
