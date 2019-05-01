@@ -18,11 +18,12 @@ class AppNavbar extends Component {
 	toggle = () => {
 		this.setState({
 			isOpen: !this.state.isOpen
-		});
+    	});
 	}
 
 	render() {
-		return (	<div>
+		return (	
+    <div>
 			<Navbar color="dark" dark expand="sm" className="mb-5">
 				<Container>
 					<NavbarBrand href="/">
